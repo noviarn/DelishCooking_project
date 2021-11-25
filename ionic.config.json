@@ -1,0 +1,7 @@
+{
+  "name": "DelishCooking_project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
