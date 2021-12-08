@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "DelishCooking_project",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

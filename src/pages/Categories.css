@@ -1,0 +1,62 @@
+:root{
+    --ion-color-beverage: #f5c0ec;
+    --ion-color-beverage-rgb: 34,36,40;
+    --ion-color-beverage-contrast: #000000;
+    --ion-color-beverage-contrast-rgb: 255,255,255;
+    --ion-color-beverage-shade: #a25b92;
+    --ion-color-beverage-tint: #e886e8;
+
+    --ion-color-dessert: #8cc4ff;
+    --ion-color-dessert-rgb: 34,36,40;
+    --ion-color-dessert-contrast: #000000;
+    --ion-color-dessert-contrast-rgb: 255,255,255;
+    --ion-color-dessert-shade: #3756ac;
+    --ion-color-dessert-tint: #97b4f3;
+
+    --ion-color-noodles: #eed1ab;
+    --ion-color-noodles-rgb: 34,36,40;
+    --ion-color-noodles-contrast: #000000;
+    --ion-color-noodles-contrast-rgb: 255,255,255;
+    --ion-color-noodles-shade: #d6a75f;
+    --ion-color-noodles-tint: #eed7a7;
+
+    --ion-color-snacks: #dff396;
+    --ion-color-snacks-rgb: 34,36,40;
+    --ion-color-snacks-contrast: #000000;
+    --ion-color-snacks-contrast-rgb: 255,255,255;
+    --ion-color-snacks-shade: #c4f75d;
+    --ion-color-snacks-tint: #e2f17c;
+
+  }
+.ion-color-beverage {
+    --ion-color-base: var(--ion-color-beverage);
+    --ion-color-base-rgb: var(--ion-color-beverage-rgb);
+    --ion-color-contrast: var(--ion-color-beverage-contrast);
+    --ion-color-contrast-rgb: var(--ion-color-beverage-contrast-rgb);
+    --ion-color-shade: var(--ion-color-beverage-shade);
+    --ion-color-tint: var(--ion-color-beverage-tint);
+}
+.ion-color-dessert {
+    --ion-color-base: var(--ion-color-dessert);
+    --ion-color-base-rgb: var(--ion-colort-dessert-rgb);
+    --ion-color-contrast: var(--ion-color-dessert-contrast);
+    --ion-color-contrast-rgb: var(--ion-color-beverage-contrast-rgb);
+    --ion-color-shade: var(--ion-color-dessert-shade);
+    --ion-color-tint: var(--ion-color-dessert-tint);
+}
+.ion-color-noodles {
+    --ion-color-base: var(--ion-color-noodles);
+    --ion-color-base-rgb: var(--ion-colort-noodles-rgb);
+    --ion-color-contrast: var(--ion-color-noodles-contrast);
+    --ion-color-contrast-rgb: var(--ion-color-noodles-contrast-rgb);
+    --ion-color-shade: var(--ion-color-noodles-shade);
+    --ion-color-tint: var(--ion-color-noodles-tint);
+}
+.ion-color-snacks {
+    --ion-color-base: var(--ion-color-snacks);
+    --ion-color-base-rgb: var(--ion-colort-snacks-rgb);
+    --ion-color-contrast: var(--ion-color-snacks-contrast);
+    --ion-color-contrast-rgb: var(--ion-color-snacks-contrast-rgb);
+    --ion-color-shade: var(--ion-color-snacs-shade);
+    --ion-color-tint: var(--ion-color-snacks-tint);
+}

@@ -1,0 +1,24 @@
+ion-avatar{
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+}
+ion-item{
+    border: solid;
+    border-width: thin;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+ion-label{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 8px;
+}
+ion-button{
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
